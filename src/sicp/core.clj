@@ -10,8 +10,8 @@
 
 (defn abs [x]
   (if (< x 0)
-   (- x)
-   x))
+    (- x)
+    x))
 
 
 (defn average [x y]
